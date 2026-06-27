@@ -1,4 +1,3 @@
-# mathematical-logic-challenges
 # Mathematical Logic & Algorithmic Challenges in Python
 
 ## 📌 Overview
